@@ -1,1 +1,2 @@
+rootProject.name='and-nd-firebase'
 include ':app'
